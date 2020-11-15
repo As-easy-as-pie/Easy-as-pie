@@ -1,6 +1,7 @@
-https://img.shields.io/github/issues/As-easy-as-pie/Easy-as-pie
-https://img.shields.io/github/issues-pr/As-easy-as-pie/Easy-as-pie
-https://img.shields.io/github/license/As-easy-as-pie/Easy-as-pie
+![GitHub issues](https://img.shields.io/github/issues/As-easy-as-pie/Easy-as-pie)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/As-easy-as-pie/Easy-as-pie)
+![GitHub](https://img.shields.io/github/license/As-easy-as-pie/Easy-as-pie)
+
 
 # Easy-as-pie
 
